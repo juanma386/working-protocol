@@ -6,7 +6,7 @@ What we propose as a central idea are the following benefits for the collaborato
 4. Adapt to the work model in a 100% digital and remote environment
 5. Have the possibility to gain recognition and classify our team or companies expecting their professional development in the [digital portfolio](https://hx2.xyz/0eroh)
 In return we have the following minimum requirements to classify through this program.
-This is a brief explanation for bypassing to access our equipment. 
+This is a brief explanation for access our equipment. 
 * All comments and updates in Technical English language only
 * As a number one point is to manage the GitHub in a functional way
 * Have the ability to perform folk and pull request actions
