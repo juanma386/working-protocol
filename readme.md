@@ -12,7 +12,7 @@ This is a brief explanation for bypassing to access our equipment.
 * Have the ability to perform folk and pull request actions
 * Register in our virtual portfolios application in [digital portfolio](https://hx2.xyz/0eroh) and develop your work
 * Carry out the collaboration with the team for **12 minimum months**
-* Make a monthly pull request according to the requirements within our [hexome colaborative channel](https://hx2.xyz/790uk)
+* Make a monthly pull request according to the requirements within our [hexome colaborative telegram channel](https://hx2.xyz/fl21f)
 * Process for accessing from contributor to developer
  1 Perform at least get a monthly pull request obtaining monthly rating
  2 Staying twelve consecutive months in the program
